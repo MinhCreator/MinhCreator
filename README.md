@@ -6,9 +6,6 @@
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&&langs_count=8"/>
 </div>
 
-### My Neovim Configuration 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhCreator&repo=lazyvim-config&show_owner=true"/> 
-
 ### My Tools
 <p align="left">
   <a href="https://skillicons.dev">
