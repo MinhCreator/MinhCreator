@@ -15,6 +15,8 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhCreator&theme=transparent)](https://github.com/MinhCreator)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/MinhCreator)
 
+[![](https://skillicons.dev/icons?i=js,html,css,godot,py,lua,ts,)](https://skillicons.dev)
+
 ### OSS Insight
 
 <!-- Copy-paste in your Readme.md file -->
