@@ -1,4 +1,4 @@
-# Hi there 👋, I'm MinhCreatorVN 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+MinhCreatorVN+;I+love+coding+and+create+new+life+for+machine.+Bug's+the+new+feature)](https://git.io/typing-svg)
 <img align="center" src="https://github.com/MinhCreator/MinhCreator/blob/main/godot.png">
 <p align="center"><samp>I'm a junior deveploper who is passionate about making contributing to open-source code and third party library. Some technologies I enjoy learning with include Web dev, godot engine, and other any game and software technology</p>
 
@@ -6,7 +6,7 @@
 
 
 ### 🧰 Language and Tools
-[![](https://skillicons.dev/icons?i=godot,py,lua,ts,tailwind,react,vite,windows,arch,git,godot,neovim,vscode,vscodium,github,docker)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=godot,py,lua,ts,tailwind,react,vite,windows,arch,git,godot,neovim,vscode,vscodium,github,docker,githubactions)](https://skillicons.dev)
 
 ### My stats ⭐
 <p align="center">
@@ -20,22 +20,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /> 
 </a>
 
-### OSS Insight
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=92376650" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=92376650&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=92376650&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
 ### Activity Timeline
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=92376650&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=92376650&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @MinhCreator" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=92376650&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MinhCreator/MinhCreator/output/github-contribution-grid-snake.svg" />
+  
+</div>
+
 
 ### Contribute
 [![](https://github-readme-activity-graph.vercel.app/graph?username=MinhCreator&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/MinhCreator)
