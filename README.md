@@ -15,17 +15,11 @@
 </p>
 
 ### Languages
-<div class="parent" style="display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(1, 1fr);
-    gap: 5px;">
-    <div class="div1">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="MinhCreatorVN github stats" />
-    </div>
-    <div class="div3">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" />
-    </div>
-</div>
+<a href ="https://github.com/MinhCreator">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="MinhCreatorVN github stats" />
+    
+  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /> 
+</a>
 
 ### OSS Insight
 
