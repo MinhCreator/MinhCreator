@@ -16,8 +16,7 @@
 
 ### Languages
 <a style="margin: center;" href ="https://github.com/MinhCreator">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="MinhCreatorVN github stats" />
-    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="MinhCreatorVN github stats" />    
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /> 
 </a>
 
