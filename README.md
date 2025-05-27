@@ -32,14 +32,16 @@ I'm a junior deveploper who is passionate about making contributing to open-sour
 <div class="parent" style="display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(1, 1fr);
-    gap: 10px;">
+    gap: 5px;">
     <div class="div1">
-    <a href="https://github.com/MinhCreator"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="MinhCreatorVN github stats" /></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="MinhCreatorVN github stats" />
     </div>
     <div class="div2">
-    <a href="https://github.com/MinhCreator"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /></a>    
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" />   
     </div>
-    <div class="div3"><a href="https://github.com/MinhCreator"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /></a></div>
+    <div class="div3">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" />
+    </div>
 </div>
 
 ### OSS Insight
