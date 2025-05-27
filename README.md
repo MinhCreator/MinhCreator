@@ -2,6 +2,9 @@
 ![banner](./godot.png)
 I'm a junior deveploper who is passionate about making contributing to open-source code and third party library. Some technologies I enjoy learning with include Web dev, godot engine, and other any game and software technology.
 
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhCreator&theme=transparent)](https://github.com/MinhCreator)
+
+
 ### My Skills
 [![](https://skillicons.dev/icons?i=js,html,css,godot,py,lua,ts,)](https://skillicons.dev)
 
@@ -20,13 +23,10 @@ I'm a junior deveploper who is passionate about making contributing to open-sour
 </p>
 
 ### My stats ⭐
-<p align="left">
+<p align="center">
   <a href="https://github.com/MinhCreator"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MinhCreator&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MinhCreator&theme=transparent&hide_border=true&border_radius=10.5&card_width=450&card_height=180&fire=EB5454" alt="GitHub Streak" /></a>
 </p>
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhCreator&theme=transparent)](https://github.com/MinhCreator)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=MinhCreator&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/MinhCreator)
 
 ### Languages
 <div class="parent" style="display: grid;
@@ -60,6 +60,9 @@ I'm a junior deveploper who is passionate about making contributing to open-sour
     <img alt="Contribution Time Distribution of @MinhCreator" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=92376650&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
+
+### Contribute
+[![](https://github-readme-activity-graph.vercel.app/graph?username=MinhCreator&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/MinhCreator)
 
 ### Profile views counter 👁️‍🗨️
 [![My profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MinhCreator)
