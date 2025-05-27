@@ -5,22 +5,8 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhCreator&theme=transparent)](https://github.com/MinhCreator)
 
 
-### My Skills
-[![](https://skillicons.dev/icons?i=js,html,css,godot,py,lua,ts,)](https://skillicons.dev)
-
-### My Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,neovim,godot,vscode,vscodium" />
-  </a>
-</p>
-
-### My OS used
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,arch" />
-  </a>
-</p>
+### 🧰 Language and Tools
+[![](https://skillicons.dev/icons?i=godot,py,lua,ts,tailwind,react,vite,windows,arch,git,godot,neovim,vscode,vscodium,github,docker)](https://skillicons.dev)
 
 ### My stats ⭐
 <p align="center">
