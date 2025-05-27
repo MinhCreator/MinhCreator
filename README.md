@@ -1,6 +1,6 @@
 # Hi there 👋, I'm MinhCreatorVN 
-![banner](./godot.png)
-I'm a junior deveploper who is passionate about making contributing to open-source code and third party library. Some technologies I enjoy learning with include Web dev, godot engine, and other any game and software technology.
+<img align="center" src="https://github.com/MinhCreator/MinhCreator/blob/main/godot.png">
+<p align="center"><samp>I'm a junior deveploper who is passionate about making contributing to open-source code and third party library. Some technologies I enjoy learning with include Web dev, godot engine, and other any game and software technology.</p>
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhCreator&theme=transparent)](https://github.com/MinhCreator)
 
@@ -30,14 +30,11 @@ I'm a junior deveploper who is passionate about making contributing to open-sour
 
 ### Languages
 <div class="parent" style="display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(1, 1fr);
     gap: 5px;">
     <div class="div1">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="MinhCreatorVN github stats" />
-    </div>
-    <div class="div2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" />   
     </div>
     <div class="div3">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" />
