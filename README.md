@@ -56,5 +56,8 @@ I'm a junior deveploper who is passionate about making contributing to open-sour
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+### Contribute
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MinhCreator/contributions?format=svg&private=false)  
+
 ### Profile views counter 👁️‍🗨️
 [![My profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MinhCreator)
