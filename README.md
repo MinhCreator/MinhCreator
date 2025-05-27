@@ -29,15 +29,19 @@ I'm a junior deveploper who is passionate about making contributing to open-sour
 [![](https://github-readme-activity-graph.vercel.app/graph?username=MinhCreator&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/MinhCreator)
 
 ### Languages
-<a href="https://github.com/MinhCreator"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="MinhCreatorVN github stats" /></a>
-
-<a href="https://github.com/MinhCreator"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /></a>
-
-<a href="https://github.com/MinhCreator"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /></a>
-
+<div class="parent" style="display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 10px;">
+    <div class="div1">
+    <a href="https://github.com/MinhCreator"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="MinhCreatorVN github stats" /></a>
+    </div>
+    <div class="div2">
+    <a href="https://github.com/MinhCreator"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /></a>    
+    </div>
+    <div class="div3"><a href="https://github.com/MinhCreator"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /></a></div>
+</div>
 ### OSS Insight
-
-<!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=92376650" target="_blank" style="display: block" align="center">
   <picture>
@@ -54,6 +58,5 @@ I'm a junior deveploper who is passionate about making contributing to open-sour
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ### Profile views counter 👁️‍🗨️
 [![My profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MinhCreator)
