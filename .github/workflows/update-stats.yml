@@ -1,11 +1,11 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+name: Generate github stats
 
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
+      # every 2 hours
+    - cron: "0 */2 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -18,7 +18,7 @@ on:
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  update-stats:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -50,3 +50,8 @@ jobs:
           commit_message: Update contribution time line snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: update waka time
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
