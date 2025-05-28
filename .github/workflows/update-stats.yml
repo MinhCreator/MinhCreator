@@ -14,7 +14,8 @@ on:
   push:
     branches:
     - main
-
+permissions:
+  contents: write
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
@@ -56,3 +57,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_DAYS_OF_WEEK: false
+          
