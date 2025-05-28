@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+MinhCreatorVN+;I+love+coding+and+create+new+life+for+machine.+Bug's+the+new+feature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&width=435&lines=Hi+threre+ %F0%9F%91%8B%2CI'm+MinhCreatorVN;I+love+coding+and+create+new+life+for+machine.;Bug's+the+new+feature" />
 </h1>
 <img align="center" src="https://github.com/MinhCreator/MinhCreator/blob/main/godot.png" />
 <p align="center"><samp>I'm a junior deveploper who is passionate about making contributing to open-source code and third party library. Some technologies I enjoy learning with include Web dev, godot engine, and other any game and software technology</p>
