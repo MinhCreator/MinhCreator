@@ -8,13 +8,68 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
 
-```txt
-YAML       59 mins         ██████████████████████▒░░   89.27 %
-Markdown   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-C++        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 417 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 114 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   53.54 % 
+🌃 Evening                173 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+YAML                     59 mins             ██████████████████████░░░   89.27 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+
+🔥 Editors: 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    50 mins             ███████████████████░░░░░░   76.60 % 
+Windows                  15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+```
+
+**I Mostly Code in Lua** 
+
+```text
+Lua                      5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+GDScript                 4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MinhCreator/MinhCreator/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/05/2025 02:48:32 UTC
 <!--END_SECTION:waka-->
 
 ### 🧰 Language and Tools
