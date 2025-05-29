@@ -27,9 +27,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   53.21 % 
-🌃 Evening                173 commits         █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌞 Morning                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   53.11 % 
+🌃 Evening                173 commits         █████████░░░░░░░░░░░░░░░░   34.67 % 
 🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 
@@ -55,11 +55,11 @@ Windows                  15 mins             ██████░░░░░�
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-GDScript                 4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Lua                      5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+GDScript                 4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -69,7 +69,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MinhCreator/MinhCreator/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 03:19:15 UTC
+ Last Updated on 29/05/2025 03:20:31 UTC
 <!--END_SECTION:waka-->
 
 ### 🧰 Language and Tools
