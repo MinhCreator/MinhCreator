@@ -8,7 +8,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
@@ -69,7 +69,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MinhCreator/MinhCreator/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 03:20:31 UTC
+ Last Updated on 29/05/2025 03:21:31 UTC
 <!--END_SECTION:waka-->
 
 ### 🧰 Language and Tools
