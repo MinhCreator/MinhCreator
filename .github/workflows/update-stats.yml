@@ -62,3 +62,4 @@ jobs:
           SHOW_EDITORS: true
           SHOW_DAYS_OF_WEEK: false
           SHOW_PROJECTS: false
+          SHOW_UPDATED_DATE: false
