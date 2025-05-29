@@ -16,8 +16,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 425 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 115 Public Repositories 
@@ -69,7 +67,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MinhCreator/MinhCreator/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 09:31:25 UTC
+ Last Updated on 29/05/2025 09:32:27 UTC
 <!--END_SECTION:waka-->
 
 ### 🧰 Language and Tools
