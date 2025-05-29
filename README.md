@@ -8,7 +8,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
@@ -27,10 +27,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   53.11 % 
-🌃 Evening                173 commits         █████████░░░░░░░░░░░░░░░░   34.67 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+🌞 Morning                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   53.00 % 
+🌃 Evening                173 commits         █████████░░░░░░░░░░░░░░░░   34.60 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
 
@@ -69,7 +69,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MinhCreator/MinhCreator/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 04:34:54 UTC
+ Last Updated on 29/05/2025 04:35:55 UTC
 <!--END_SECTION:waka-->
 
 ### 🧰 Language and Tools
