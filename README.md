@@ -66,9 +66,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/MinhCreator/MinhCreator/main/assets/bar_graph.png)
 
 
 <!--END_SECTION:waka-->
