@@ -65,4 +65,4 @@ jobs:
           SHOW_UPDATED_DATE: false
           SHOW_LOC_CHART: false
           SHOW_PROFILE_VIEWS: false
-          SHOW_LINES_OF_CODE: false
+          SHOW_LINES_OF_CODE: true
