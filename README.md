@@ -40,18 +40,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     2 hrs 53 mins       ████████████░░░░░░░░░░░░░   49.58 % 
-Lua                      1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   33.68 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Lua                      4 hrs 14 mins       █████████████░░░░░░░░░░░░   52.24 % 
+YAML                     2 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       ███████████████████░░░░░░   77.28 % 
-Linux                    1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Windows                  6 hrs 47 mins       █████████████████████░░░░   83.64 % 
+Linux                    1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
 ```
 
 **I Mostly Code in Lua** 
