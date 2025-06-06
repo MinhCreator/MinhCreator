@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-506.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -20,16 +20,16 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 116 Public Repositories 
+> 📜 117 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   52.06 % 
-🌃 Evening                178 commits         █████████░░░░░░░░░░░░░░░░   34.97 % 
+🌞 Morning                51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   51.96 % 
+🌃 Evening                178 commits         █████████░░░░░░░░░░░░░░░░   34.90 % 
 🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 
@@ -57,11 +57,11 @@ Windows                  14 hrs 42 mins      ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-GDScript                 4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Lua                      6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+GDScript                 4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
