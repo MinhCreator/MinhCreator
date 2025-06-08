@@ -16,8 +16,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 117 Public Repositories 
@@ -27,10 +25,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   51.36 % 
-🌃 Evening                179 commits         █████████░░░░░░░░░░░░░░░░   34.69 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+🌆 Daytime                265 commits         █████████████░░░░░░░░░░░░   51.26 % 
+🌃 Evening                180 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 
