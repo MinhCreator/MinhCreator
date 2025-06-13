@@ -8,7 +8,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.6%20thousand%20lines%20of%20code-blue)
 
@@ -40,18 +40,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Lua                      4 hrs 22 mins       ██████████████████████░░░   88.71 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Lua                      4 hrs 46 mins       ███████████████████████░░   91.96 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+checkhealth              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 56 mins       ███████████████░░░░░░░░░░   59.64 % 
-Neovim                   1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   40.36 % 
+Neovim                   2 hrs 44 mins       █████████████░░░░░░░░░░░░   53.00 % 
+VS Code                  2 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
