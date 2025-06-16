@@ -8,7 +8,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.6%20thousand%20lines%20of%20code-blue)
 
@@ -27,10 +27,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-🌆 Daytime                268 commits         █████████████░░░░░░░░░░░░   50.95 % 
-🌃 Evening                183 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+🌞 Morning                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+🌆 Daytime                268 commits         █████████████░░░░░░░░░░░░   50.76 % 
+🌃 Evening                185 commits         █████████░░░░░░░░░░░░░░░░   35.04 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
