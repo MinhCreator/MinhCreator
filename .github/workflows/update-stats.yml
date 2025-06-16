@@ -5,7 +5,7 @@ name: Generate github stats
 on:
   schedule:
       # Runs at 30 minutes past the hour, every 5 hours
-    - cron: "30 */5 * * *"
+    - cron: "0 */5 * * *"
     
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
