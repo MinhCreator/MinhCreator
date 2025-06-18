@@ -16,7 +16,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 456 Contributions in the Year 2025
+> 🏆 457 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,18 +40,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Lua                      4 hrs 57 mins       ████████████████████████░   94.09 % 
-checkhealth              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-gitignore                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Lua                      4 hrs 57 mins       ███████████████████████░░   91.31 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+checkhealth              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 56 mins       ██████████████░░░░░░░░░░░   55.78 % 
-VS Code                  2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.22 % 
+Neovim                   2 hrs 56 mins       ██████████████░░░░░░░░░░░   54.13 % 
+VS Code                  2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.87 % 
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
