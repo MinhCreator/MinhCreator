@@ -8,28 +8,28 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2035%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 459 Contributions in the Year 2025
+> 🏆 461 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 120 Public Repositories 
+> 📜 121 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-🌆 Daytime                268 commits         █████████████░░░░░░░░░░░░   50.47 % 
-🌃 Evening                188 commits         █████████░░░░░░░░░░░░░░░░   35.40 % 
+🌞 Morning                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+🌆 Daytime                268 commits         █████████████░░░░░░░░░░░░   50.38 % 
+🌃 Evening                189 commits         █████████░░░░░░░░░░░░░░░░   35.53 % 
 🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 
@@ -40,28 +40,28 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Lua                      1 hr 11 mins        ██████████████░░░░░░░░░░░   54.87 % 
-Python                   35 mins             ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Lua                      1 hr 11 mins        ██████████████░░░░░░░░░░░   54.93 % 
+Python                   38 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+YAML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████░░░░░░░░░░░░   52.78 % 
-Neovim                   1 hr 1 min          ████████████░░░░░░░░░░░░░   47.22 % 
+VS Code                  1 hr 8 mins         █████████████░░░░░░░░░░░░   52.65 % 
+Neovim                   1 hr 1 min          ████████████░░░░░░░░░░░░░   47.35 % 
 
 💻 Operating System: 
-Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-GDScript                 3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Lua                      6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+GDScript                 3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
