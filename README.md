@@ -8,7 +8,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-519.9%20thousand%20lines%20of%20code-blue)
 
@@ -16,11 +16,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 491 Contributions in the Year 2025
+> 🏆 492 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 124 Public Repositories 
+> 📜 125 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -40,17 +40,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-HTML                     12 hrs 55 mins      ███████████████░░░░░░░░░░   58.79 % 
-Python                   5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-CSS                      2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+HTML                     11 hrs 20 mins      ██████████████░░░░░░░░░░░   56.10 % 
+Python                   5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+CSS                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
