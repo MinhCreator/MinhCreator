@@ -16,7 +16,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 529 Contributions in the Year 2025
+> 🏆 530 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,9 +27,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-🌆 Daytime                301 commits         █████████████░░░░░░░░░░░░   51.19 % 
-🌃 Evening                204 commits         █████████░░░░░░░░░░░░░░░░   34.69 % 
+🌞 Morning                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+🌆 Daytime                301 commits         █████████████░░░░░░░░░░░░   51.10 % 
+🌃 Evening                204 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
 🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
@@ -40,17 +40,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   6 hrs 8 mins        ████████████████░░░░░░░░░   62.16 % 
-HTML                     2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-CSS                      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Python                   4 hrs 49 mins       ██████████████░░░░░░░░░░░   56.68 % 
+HTML                     2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+CSS                      1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
