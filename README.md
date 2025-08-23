@@ -93,7 +93,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ### My leetcode
 <div align='center'>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/minhcreator?theme=nord&font=Asap%20Condensed&ext=activity)
+  <img src="https://leetcard.jacoblin.cool/minhcreator?theme=nord&font=Asap%20Condensed&ext=activity" />
 </div>
 
 ### Activity Timeline
