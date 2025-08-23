@@ -89,6 +89,11 @@ C++                      1 repo              █░░░░░░░░░░�
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MinhCreator&hide_border=true&date_format=n%2Fj%5B%2FY%5D&ring=EB3838" />
 </details>
 
+### My leetcode
+<div align='center'>
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/minhcreator?theme=nord&font=Asap%20Condensed&ext=activity)
+</div>
+
 ### Activity Timeline
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MinhCreator/MinhCreator/output/github-contribution-grid-snake.svg" />
