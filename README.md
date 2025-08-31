@@ -16,6 +16,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 537 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 133 Public Repositories 
@@ -38,15 +40,13 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   2 hrs 38 mins       ███████████████████████░░   93.18 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
