@@ -8,7 +8,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-520.9%20thousand%20lines%20of%20code-blue)
 
@@ -40,13 +40,15 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   11 mins             █████████████████████████   100.00 % 
+Python                   1 hr 37 mins        ██████████████████░░░░░░░   70.26 % 
+Lua                      41 mins             ███████░░░░░░░░░░░░░░░░░░   29.74 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        ██████████████████░░░░░░░   70.26 % 
+Neovim                   41 mins             ███████░░░░░░░░░░░░░░░░░░   29.74 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
