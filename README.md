@@ -38,15 +38,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   10 hrs 11 mins      ██████████████████████░░░   87.94 % 
-Lua                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Python                   10 hrs 21 mins      ██████████████████████░░░   86.98 % 
+Lua                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 2 mins       ██████████████████████░░░   86.77 % 
-Neovim                   1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+VS Code                  10 hrs 15 mins      ██████████████████████░░░   86.24 % 
+Neovim                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 
 💻 Operating System: 
-Windows                  11 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
