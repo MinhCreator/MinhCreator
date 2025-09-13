@@ -60,19 +60,19 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   3 hrs 49 mins       ████████████████░░░░░░░░░   62.74 % 
-Java                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Lua                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Lua                      2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.17 % 
+Java                     1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   36.65 % 
+Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 9 mins        █████████████████░░░░░░░░   68.06 % 
-IntelliJ IDEA            1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Neovim                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+VS Code                  2 hrs 46 mins       ███████████████░░░░░░░░░░   58.72 % 
+IntelliJ IDEA            1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Neovim                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
 
 💻 Operating System: 
-Windows                  6 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
