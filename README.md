@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-522.5%20thousand%20lines%20of%20code-blue)
 
@@ -36,7 +36,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 545 Contributions in the Year 2025
+> 🏆 544 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,37 +44,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-🌆 Daytime                306 commits         █████████████░░░░░░░░░░░░   50.92 % 
-🌃 Evening                207 commits         █████████░░░░░░░░░░░░░░░░   34.44 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Java                     1 hr 49 mins        ███████████░░░░░░░░░░░░░░   43.94 % 
-Lua                      1 hr 42 mins        ██████████░░░░░░░░░░░░░░░   41.11 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 33 mins       ███████████████░░░░░░░░░░   61.44 % 
-IntelliJ IDEA            1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Neovim                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-
-💻 Operating System: 
-Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
