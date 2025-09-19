@@ -44,37 +44,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-🌆 Daytime                306 commits         █████████████░░░░░░░░░░░░   50.92 % 
-🌃 Evening                207 commits         █████████░░░░░░░░░░░░░░░░   34.44 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Lua                      1 hr 42 mins        █████████████░░░░░░░░░░░░   53.18 % 
-Java                     1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.34 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 18 mins       ██████████████████░░░░░░░   71.62 % 
-IntelliJ IDEA            32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Neovim                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-
-💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
