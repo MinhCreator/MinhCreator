@@ -28,6 +28,8 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2051%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -42,6 +44,36 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌆 Daytime                306 commits         █████████████░░░░░░░░░░░░   50.66 % 
+🌃 Evening                207 commits         █████████░░░░░░░░░░░░░░░░   34.27 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Java                     1 hr 31 mins        ███████████████████░░░░░░   74.20 % 
+Bash                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+CLASS                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+
+🔥 Editors: 
+IntelliJ IDEA            1 hr 31 mins        ██████████████████░░░░░░░   73.60 % 
+VS Code                  32 mins             ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+
+💻 Operating System: 
+Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Lua** 
 
 ```text
