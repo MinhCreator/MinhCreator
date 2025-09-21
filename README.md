@@ -60,18 +60,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     1 hr 31 mins        ███████████████████░░░░░░   74.20 % 
-Bash                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-CLASS                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Java                     1 hr 45 mins        ██████████████████░░░░░░░   73.22 % 
+Bash                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+CLASS                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 31 mins        ██████████████████░░░░░░░   73.60 % 
-VS Code                  32 mins             ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+IntelliJ IDEA            1 hr 40 mins        █████████████████░░░░░░░░   69.59 % 
+VS Code                  43 mins             ████████░░░░░░░░░░░░░░░░░   30.41 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
