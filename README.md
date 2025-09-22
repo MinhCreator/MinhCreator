@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528.3%20thousand%20lines%20of%20code-blue)
 
@@ -60,18 +60,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     1 hr 45 mins        ██████████████████░░░░░░░   73.22 % 
-Bash                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-CLASS                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Java                     1 hr 36 mins        ██████████████████░░░░░░░   70.44 % 
+Bash                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 40 mins        █████████████████░░░░░░░░   69.59 % 
-VS Code                  43 mins             ████████░░░░░░░░░░░░░░░░░   30.41 % 
+IntelliJ IDEA            1 hr 31 mins        █████████████████░░░░░░░░   66.63 % 
+VS Code                  45 mins             ████████░░░░░░░░░░░░░░░░░   33.37 % 
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
