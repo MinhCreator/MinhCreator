@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2023%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -40,16 +40,16 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 138 Public Repositories 
+> 📜 139 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-🌆 Daytime                307 commits         █████████████░░░░░░░░░░░░   50.74 % 
-🌃 Evening                207 commits         █████████░░░░░░░░░░░░░░░░   34.21 % 
+🌞 Morning                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌆 Daytime                308 commits         █████████████░░░░░░░░░░░░   50.83 % 
+🌃 Evening                207 commits         █████████░░░░░░░░░░░░░░░░   34.16 % 
 🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
@@ -77,11 +77,11 @@ Windows                  4 hrs 34 mins       ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-GDScript                 3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Lua                      7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+GDScript                 3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
