@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2038%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-590.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-594.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-🌆 Daytime                320 commits         █████████████░░░░░░░░░░░░   51.04 % 
-🌃 Evening                207 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+🌞 Morning                80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+🌆 Daytime                321 commits         █████████████░░░░░░░░░░░░   51.11 % 
+🌃 Evening                207 commits         ████████░░░░░░░░░░░░░░░░░   32.96 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 
 
@@ -76,11 +76,11 @@ Windows                  10 hrs 3 mins       ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-GDScript                 4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-GDShader                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+GDScript                 5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+GDShader                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
