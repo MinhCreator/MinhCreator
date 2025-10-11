@@ -40,39 +40,10 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 177 Public Repositories 
+> 📜 178 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-🌆 Daytime                327 commits         █████████████░░░░░░░░░░░░   50.93 % 
-🌃 Evening                213 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Java                     5 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.87 % 
-C++                      3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-SQL                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Git Config               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 35 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  11 hrs 35 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
