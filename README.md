@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-623.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -40,16 +40,16 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 175 Public Repositories 
+> 📜 176 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-🌆 Daytime                327 commits         █████████████░░░░░░░░░░░░   51.01 % 
-🌃 Evening                212 commits         ████████░░░░░░░░░░░░░░░░░   33.07 % 
+🌞 Morning                82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+🌆 Daytime                327 commits         █████████████░░░░░░░░░░░░   50.93 % 
+🌃 Evening                213 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
 🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
@@ -76,11 +76,11 @@ Windows                  11 hrs 35 mins      ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-GDScript                 5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-GDShader                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+GDScript                 5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+GDShader                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
