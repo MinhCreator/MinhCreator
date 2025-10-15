@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -36,7 +36,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 582 Contributions in the Year 2025
+> 🏆 583 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
