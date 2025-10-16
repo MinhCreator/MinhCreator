@@ -36,7 +36,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 586 Contributions in the Year 2025
+> 🏆 585 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
