@@ -40,17 +40,17 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 186 Public Repositories 
+> 📜 187 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-🌆 Daytime                327 commits         █████████████░░░░░░░░░░░░   50.31 % 
-🌃 Evening                218 commits         ████████░░░░░░░░░░░░░░░░░   33.54 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+🌞 Morning                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+🌆 Daytime                329 commits         █████████████░░░░░░░░░░░░   50.46 % 
+🌃 Evening                218 commits         ████████░░░░░░░░░░░░░░░░░   33.44 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
 
 
@@ -76,11 +76,11 @@ Windows                  6 hrs 28 mins       ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-GDScript                 5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-GDShader                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+GDShader                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
