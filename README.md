@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -36,7 +36,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 585 Contributions in the Year 2025
+> 🏆 586 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-🌆 Daytime                329 commits         █████████████░░░░░░░░░░░░   50.46 % 
-🌃 Evening                218 commits         ████████░░░░░░░░░░░░░░░░░   33.44 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+🌞 Morning                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+🌆 Daytime                329 commits         █████████████░░░░░░░░░░░░   50.38 % 
+🌃 Evening                219 commits         ████████░░░░░░░░░░░░░░░░░   33.54 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 
@@ -60,17 +60,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     4 hrs 29 mins       ███████████████████░░░░░░   76.31 % 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Java                     4 hrs 29 mins       ███████████████░░░░░░░░░░   60.69 % 
+C++                      1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
