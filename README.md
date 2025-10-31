@@ -60,17 +60,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C++                      2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.90 % 
-Java                     2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.29 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+C++                      2 hrs 34 mins       ███████████████░░░░░░░░░░   59.97 % 
+Java                     1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
