@@ -36,9 +36,9 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 594 Contributions in the Year 2025
+> 🏆 596 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 195 Public Repositories 
  > 
