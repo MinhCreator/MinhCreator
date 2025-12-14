@@ -40,7 +40,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 206 Public Repositories 
+> 📜 207 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -60,17 +60,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    1 hr 36 mins        ████████████░░░░░░░░░░░░░   49.74 % 
-C++                      40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-SQL                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Java                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Other                    1 hr 36 mins        █████████████░░░░░░░░░░░░   50.70 % 
+C++                      40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+SQL                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Java                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
