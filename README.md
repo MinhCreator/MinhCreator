@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,16 +40,16 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 214 Public Repositories 
+> 📜 215 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                107 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-🌆 Daytime                351 commits         ████████████░░░░░░░░░░░░░   48.82 % 
-🌃 Evening                239 commits         ████████░░░░░░░░░░░░░░░░░   33.24 % 
+🌞 Morning                107 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+🌆 Daytime                351 commits         ████████████░░░░░░░░░░░░░   48.75 % 
+🌃 Evening                240 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
 🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
@@ -76,11 +76,11 @@ Windows                  3 hrs 1 min         ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-GDScript                 6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-GDShader                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Lua                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+GDScript                 6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+GDShader                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
