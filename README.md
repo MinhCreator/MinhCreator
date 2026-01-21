@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2048%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-🌆 Daytime                353 commits         ████████████░░░░░░░░░░░░░   48.49 % 
-🌃 Evening                244 commits         ████████░░░░░░░░░░░░░░░░░   33.52 % 
-🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+🌞 Morning                109 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+🌆 Daytime                353 commits         ████████████░░░░░░░░░░░░░   48.36 % 
+🌃 Evening                246 commits         ████████░░░░░░░░░░░░░░░░░   33.70 % 
+🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 
 
@@ -60,16 +60,15 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     1 hr 33 mins        █████████████░░░░░░░░░░░░   52.70 % 
-SQL                      59 mins             ████████░░░░░░░░░░░░░░░░░   33.63 % 
-Python                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Java                     46 mins             ████████████░░░░░░░░░░░░░   46.62 % 
+SQL                      33 mins             ████████░░░░░░░░░░░░░░░░░   33.26 % 
+Python                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
