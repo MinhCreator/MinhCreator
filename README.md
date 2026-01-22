@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2048%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2026
+> 🏆 16 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                110 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+🌆 Daytime                356 commits         ████████████░░░░░░░░░░░░░   48.50 % 
+🌃 Evening                246 commits         ████████░░░░░░░░░░░░░░░░░   33.51 % 
+🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 
@@ -71,8 +71,14 @@ VS Code                  1 hr 39 mins        ███████████�
 Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
-```text
+**I Mostly Code in Lua** 
 
+```text
+Lua                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+GDScript                 6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+GDShader                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
