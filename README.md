@@ -81,7 +81,7 @@ Windows                  1 hr 39 mins        ███████████�
 <!--END_SECTION:waka-->
 
 ### 🧰 Language and Tools
-[![](https://skillicons.dev/icons?i=godot,py,lua,ts,tailwind,react,vite,windows,arch,git,godot,neovim,vscode,vscodium,github,docker,githubactions,java)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=godot,py,lua,ts,tailwind,react,vite,windows,arch,git,godot,neovim,vscode,vscodium,github,docker,githubactions,java,javascript,html,css,flask)](https://skillicons.dev)
 
 ### My stats ⭐
 ### Projects and Dev Stuffs:
