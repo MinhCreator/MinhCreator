@@ -44,34 +44,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                110 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌆 Daytime                362 commits         ████████████░░░░░░░░░░░░░   48.92 % 
-🌃 Evening                246 commits         ████████░░░░░░░░░░░░░░░░░   33.24 % 
-🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-HTML                     41 mins             ████████████████░░░░░░░░░   64.63 % 
-CSS                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Java                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Image (svg)              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-
-🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
