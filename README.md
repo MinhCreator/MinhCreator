@@ -69,14 +69,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Lua** 
-
 ```text
-Lua                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-GDScript                 7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-GDShader                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+
 ```
 
 
