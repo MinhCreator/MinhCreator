@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.34%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,6 +44,32 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+🌆 Daytime                365 commits         ████████████░░░░░░░░░░░░░   48.73 % 
+🌃 Evening                246 commits         ████████░░░░░░░░░░░░░░░░░   32.84 % 
+🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Java                     53 mins             ████████████████████░░░░░   80.22 % 
+HTML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+
+🔥 Editors: 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Lua** 
 
 ```text
