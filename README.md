@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.34%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -44,33 +44,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-🌆 Daytime                365 commits         ████████████░░░░░░░░░░░░░   48.60 % 
-🌃 Evening                248 commits         ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-HTML                     1 hr 5 mins         █████████████████░░░░░░░░   68.89 % 
-Java                     28 mins             ████████░░░░░░░░░░░░░░░░░   30.18 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-
-🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
