@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                119 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                373 commits         ████████████░░░░░░░░░░░░░   48.76 % 
-🌃 Evening                250 commits         ████████░░░░░░░░░░░░░░░░░   32.68 % 
-🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -76,11 +76,11 @@ Windows                  8 hrs 3 mins        ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-GDScript                 7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Lua                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+GDScript                 7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+QML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
