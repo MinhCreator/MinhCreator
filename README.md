@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -40,17 +40,17 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 234 Public Repositories 
+> 📜 235 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-🌆 Daytime                373 commits         ████████████░░░░░░░░░░░░░   48.13 % 
-🌃 Evening                258 commits         ████████░░░░░░░░░░░░░░░░░   33.29 % 
-🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+🌞 Morning                120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌆 Daytime                373 commits         ████████████░░░░░░░░░░░░░   48.07 % 
+🌃 Evening                259 commits         ████████░░░░░░░░░░░░░░░░░   33.38 % 
+🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 
@@ -76,11 +76,11 @@ Windows                  8 hrs 3 mins        ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-GDScript                 7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Lua                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+GDScript                 8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+QML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
