@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-🌆 Daytime                374 commits         ████████████░░░░░░░░░░░░░   47.28 % 
-🌃 Evening                269 commits         █████████░░░░░░░░░░░░░░░░   34.01 % 
-🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -74,14 +74,8 @@ Neovim                   8 mins              ░░░░░░░░░░░�
 Windows                  10 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Lua** 
-
 ```text
-Lua                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-GDScript                 8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-GDShader                 6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+
 ```
 
 
