@@ -60,18 +60,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-HTML                     2 hrs 8 mins        ████████████████░░░░░░░░░   64.89 % 
-Lua                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+HTML                     1 hr 14 mins        █████████████████░░░░░░░░   68.08 % 
+JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        ████████████████████████░   95.85 % 
-Neovim                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
