@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.47%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                125 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-🌆 Daytime                376 commits         ████████████░░░░░░░░░░░░░   47.18 % 
-🌃 Evening                271 commits         ████████░░░░░░░░░░░░░░░░░   34.00 % 
-🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+🌞 Morning                125 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+🌆 Daytime                376 commits         ████████████░░░░░░░░░░░░░   47.06 % 
+🌃 Evening                273 commits         █████████░░░░░░░░░░░░░░░░   34.17 % 
+🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 
 
@@ -60,17 +60,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               1 hr 19 mins        ███████████████░░░░░░░░░░   58.23 % 
-JSON                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-HTML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JavaScript               2 hrs 3 mins        █████████████████░░░░░░░░   67.65 % 
+JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
