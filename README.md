@@ -60,17 +60,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               10 hrs 57 mins      ████████████░░░░░░░░░░░░░   47.33 % 
-Java                     3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Python                   2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-CSS                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-TypeScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+JavaScript               11 hrs 15 mins      ███████████░░░░░░░░░░░░░░   42.54 % 
+Java                     3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Python                   3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+CSS                      1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  26 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  26 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
