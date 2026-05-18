@@ -28,59 +28,30 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2026
+> 🏆 109 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 246 Public Repositories 
+> 📜 247 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-🌆 Daytime                377 commits         ████████████░░░░░░░░░░░░░   46.09 % 
-🌃 Evening                280 commits         █████████░░░░░░░░░░░░░░░░   34.23 % 
-🌙 Night                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-JavaScript               11 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   41.39 % 
-Java                     4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Python                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-CSS                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-C++                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-
-🔥 Editors: 
-VS Code                  28 hrs 34 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  28 hrs 34 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-GDScript                 9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-GDShader                 6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+GDScript                 9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+GDShader                 6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 
