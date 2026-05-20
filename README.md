@@ -36,21 +36,21 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 109 Contributions in the Year 2026
+> 🏆 113 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 247 Public Repositories 
+> 📜 248 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                141 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-🌆 Daytime                387 commits         ███████████░░░░░░░░░░░░░░   45.37 % 
-🌃 Evening                298 commits         █████████░░░░░░░░░░░░░░░░   34.94 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+🌞 Morning                141 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌆 Daytime                387 commits         ███████████░░░░░░░░░░░░░░   45.32 % 
+🌃 Evening                299 commits         █████████░░░░░░░░░░░░░░░░   35.01 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 
 
@@ -76,11 +76,11 @@ Windows                  26 hrs 45 mins      ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-GDScript                 9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-GDShader                 6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+GDScript                 9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+GDShader                 6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
