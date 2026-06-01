@@ -74,14 +74,8 @@ Vscodium                 13 mins             █░░░░░░░░░░�
 Windows                  10 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in GDScript** 
-
 ```text
-GDScript                 12 repos            █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-GDShader                 7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+
 ```
 
 
