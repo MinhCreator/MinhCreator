@@ -99,8 +99,8 @@ JavaScript               4 repos             ██░░░░░░░░░�
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" alt="stats" src ="https://github-readme-stats.vercel.app/api?username=MinhCreator&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="180em" alt="stats" src ="https://readme-stats-omega-sooty.vercel.app/api?username=MinhCreator&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" />
+  <img height="180em" src="https://readme-stats-omega-sooty.vercel.app/api/top-langs/?username=MinhCreator&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhCreator&theme=transparent" alt="MinhCreatorVN github stats" /> 
 
 </details>
