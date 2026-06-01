@@ -44,6 +44,36 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+🌆 Daytime                386 commits         ███████████░░░░░░░░░░░░░░   43.96 % 
+🌃 Evening                316 commits         █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Java                     4 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
+JSON                     2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 24 mins      ████████████████████████░   97.92 % 
+Vscodium                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+
+💻 Operating System: 
+Windows                  10 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in GDScript** 
 
 ```text
