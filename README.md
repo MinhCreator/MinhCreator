@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                184 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+🌆 Daytime                430 commits         ███████████░░░░░░░░░░░░░░   44.19 % 
+🌃 Evening                328 commits         ████████░░░░░░░░░░░░░░░░░   33.71 % 
+🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 
 
@@ -74,8 +74,14 @@ Vscodium                 14 mins             ░░░░░░░░░░░�
 Windows                  23 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
-```text
+**I Mostly Code in GDScript** 
 
+```text
+GDScript                 12 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+GDShader                 7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
