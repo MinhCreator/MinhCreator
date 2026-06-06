@@ -28,52 +28,22 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2026
+> 🏆 170 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 260 Public Repositories 
+> 📜 261 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-🌆 Daytime                386 commits         ███████████░░░░░░░░░░░░░░   43.96 % 
-🌃 Evening                316 commits         █████████░░░░░░░░░░░░░░░░   35.99 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Java                     4 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
-JSON                     2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 24 mins      ████████████████████████░   97.92 % 
-Vscodium                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-
-💻 Operating System: 
-Windows                  10 hrs 37 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in GDScript** 
 
 ```text
