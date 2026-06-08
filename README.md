@@ -60,18 +60,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     12 hrs 55 mins      █████████████████░░░░░░░░   66.81 % 
-XML                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Java                     10 hrs 42 mins      █████████████████░░░░░░░░   67.43 % 
+XML                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 5 mins       █████████████████████████   98.75 % 
-Vscodium                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+VS Code                  15 hrs 37 mins      █████████████████████████   98.48 % 
+Vscodium                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Windows                  19 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in GDScript** 
