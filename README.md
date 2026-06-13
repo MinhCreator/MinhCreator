@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.24%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,9 +47,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                185 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-🌆 Daytime                434 commits         ███████████░░░░░░░░░░░░░░   44.29 % 
-🌃 Evening                329 commits         ████████░░░░░░░░░░░░░░░░░   33.57 % 
+🌞 Morning                185 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+🌆 Daytime                434 commits         ███████████░░░░░░░░░░░░░░   44.38 % 
+🌃 Evening                327 commits         ████████░░░░░░░░░░░░░░░░░   33.44 % 
 🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
 
@@ -60,18 +60,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   1 hr 11 mins        ███████████░░░░░░░░░░░░░░   42.70 % 
-C++                      52 mins             ████████░░░░░░░░░░░░░░░░░   31.49 % 
-YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript               1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Python                   1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+C++                      52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        ██████████████████░░░░░░░   73.59 % 
-Vscodium                 44 mins             ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+VS Code                  5 hrs 12 mins       ██████████████████████░░░   86.32 % 
+Vscodium                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in GDScript** 
