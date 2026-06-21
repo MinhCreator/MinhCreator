@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -40,7 +40,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 262 Public Repositories 
+> 📜 263 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -77,11 +77,11 @@ Windows                  4 hrs 41 mins       ███████████�
 **I Mostly Code in GDScript** 
 
 ```text
-GDScript                 12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-GDShader                 7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+GDScript                 12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+GDShader                 7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
