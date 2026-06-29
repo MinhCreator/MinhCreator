@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,19 +60,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     9 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.99 % 
-JavaScript               5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Markdown                 4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Python                   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-HTML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Java                     8 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.83 % 
+JavaScript               4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Markdown                 3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+TypeScript               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Python                   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 14 mins      ████████████████████████░   97.43 % 
-Vscodium                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Antigravity IDE          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+VS Code                  24 hrs 38 mins      █████████████████████████   98.80 % 
+Antigravity IDE          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Windows                  27 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in GDScript** 
