@@ -60,17 +60,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 23 mins       ███████████████████░░░░░░   77.39 % 
-Git Config               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Image (svg)              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Batchfile                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript               2 hrs 41 mins       ███████████████████░░░░░░   76.11 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 29 mins       ██████████████████░░░░░░░   70.58 % 
+Linux                    1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
 ```
 
 **I Mostly Code in GDScript** 
