@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                100 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌆 Daytime                128 commits         █████████░░░░░░░░░░░░░░░░   34.13 % 
-🌃 Evening                123 commits         ████████░░░░░░░░░░░░░░░░░   32.80 % 
-🌙 Night                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -73,14 +73,8 @@ VS Code                  3 hrs 5 mins        ███████████�
 Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in GDScript** 
-
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+
 ```
 
 
