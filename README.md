@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 248 Contributions in the Year 2026
+> 🏆 247 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                215 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+🌆 Daytime                467 commits         ███████████░░░░░░░░░░░░░░   43.00 % 
+🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 
 
@@ -74,8 +74,14 @@ Windows                  1 hr 44 mins        ███████████�
 Linux                    1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.38 % 
 ```
 
-```text
+**I Mostly Code in GDScript** 
 
+```text
+GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
