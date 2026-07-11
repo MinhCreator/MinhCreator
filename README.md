@@ -28,29 +28,29 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 248 Contributions in the Year 2026
+> 🏆 253 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 275 Public Repositories 
+> 📜 280 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                215 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-🌆 Daytime                467 commits         ███████████░░░░░░░░░░░░░░   43.00 % 
-🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+🌞 Morning                216 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+🌆 Daytime                467 commits         ███████████░░░░░░░░░░░░░░   42.96 % 
+🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
 
@@ -60,18 +60,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ███████████████████░░░░░░   76.41 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Batchfile                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Markdown                 1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   30.26 % 
+QML                      1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+TypeScript               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Python                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        ████████████████░░░░░░░░░   62.62 % 
-Linux                    1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.38 % 
+Linux                    4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in GDScript** 
