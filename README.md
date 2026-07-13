@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -36,11 +36,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 253 Contributions in the Year 2026
+> 🏆 254 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 280 Public Repositories 
+> 📜 281 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -60,17 +60,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   30.26 % 
-QML                      1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-TypeScript               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Python                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Markdown                 2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.73 % 
+QML                      2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.04 % 
+TypeScript               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in GDScript** 
