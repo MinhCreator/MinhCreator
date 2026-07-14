@@ -60,17 +60,17 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 2 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.45 % 
-QML                      2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.95 % 
-Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Desktop file             16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+QML                      1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.54 % 
+Markdown                 1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+Lua                      52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Python                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in GDScript** 
