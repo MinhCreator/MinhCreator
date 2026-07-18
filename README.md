@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-595.27%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -44,13 +44,13 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13 commits          ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-🌆 Daytime                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-🌃 Evening                32 commits          ██████████████░░░░░░░░░░░   54.24 % 
-🌙 Night                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -74,14 +74,8 @@ Neovim                   25 mins             ██░░░░░░░░░�
 Linux                    6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in GDScript** 
-
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+
 ```
 
 
