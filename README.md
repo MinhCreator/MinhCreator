@@ -60,18 +60,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Lua                      4 hrs 11 mins       ██████████████░░░░░░░░░░░   54.13 % 
-QML                      1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Desktop file             16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Lua                      4 hrs 11 mins       ████████████████░░░░░░░░░   62.57 % 
+QML                      1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Desktop file             16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 18 mins       ████████████████████████░   94.48 % 
-Neovim                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+VS Code                  6 hrs 15 mins       ███████████████████████░░   93.62 % 
+Neovim                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 💻 Operating System: 
-Linux                    7 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in GDScript** 
