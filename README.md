@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,36 +44,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                215 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-🌆 Daytime                467 commits         ███████████░░░░░░░░░░░░░░   43.00 % 
-🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Lua                      4 hrs 11 mins       ████████████████░░░░░░░░░   62.57 % 
-QML                      1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Desktop file             16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 15 mins       ███████████████████████░░   93.62 % 
-Neovim                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-
-💻 Operating System: 
-Linux                    6 hrs 41 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in GDScript** 
 
 ```text
