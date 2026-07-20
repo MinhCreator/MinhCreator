@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.40%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                79 commits          ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-🌆 Daytime                99 commits          ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌃 Evening                97 commits          ████████░░░░░░░░░░░░░░░░░   32.44 % 
-🌙 Night                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+🌞 Morning                215 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+🌆 Daytime                467 commits         ███████████░░░░░░░░░░░░░░   43.00 % 
+🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 
 
