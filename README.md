@@ -60,15 +60,15 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 50 mins             █████████░░░░░░░░░░░░░░░░   34.17 % 
-Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-QML                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Markdown                 54 mins             █████████░░░░░░░░░░░░░░░░   37.14 % 
+Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+QML                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Desktop file             18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Desktop file             18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       ███████████████████████░░   93.23 % 
-Neovim                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+VS Code                  2 hrs 17 mins       ███████████████████████░░   93.24 % 
+Neovim                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 💻 Operating System: 
 Linux                    2 hrs 27 mins       █████████████████████████   100.00 % 
