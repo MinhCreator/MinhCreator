@@ -28,6 +28,8 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2037%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -58,18 +60,18 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 54 mins             █████████░░░░░░░░░░░░░░░░   37.14 % 
-Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-QML                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Desktop file             18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Markdown                 50 mins             █████████░░░░░░░░░░░░░░░░   35.21 % 
+Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+QML                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Desktop file             18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       ███████████████████████░░   93.24 % 
-Neovim                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+VS Code                  2 hrs 13 mins       ███████████████████████░░   93.03 % 
+Neovim                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 💻 Operating System: 
-Linux                    2 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in GDScript** 
