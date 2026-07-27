@@ -28,7 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -72,6 +74,29 @@ Neovim                   9 mins              ████░░░░░░░�
 
 💻 Operating System: 
 Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 35 mins (50.19%)
+
+✍️ 10 lines written by AI, 34 lines written by hand (22.73% AI-written)
+
+🔤 136,002 Input Tokens, 14,518 Output Tokens
+
+💵 $0.63 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 6 AI Prompts
+
+Mimo                     10 lines            █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 22.73% of written lines came from AI
+📄 Detailed Prompter — average 526 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 80.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
