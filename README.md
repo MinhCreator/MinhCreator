@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,21 +38,21 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 253 Contributions in the Year 2026
+> 🏆 252 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 281 Public Repositories 
+> 📜 266 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                214 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-🌆 Daytime                467 commits         ███████████░░░░░░░░░░░░░░   43.04 % 
-🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.00 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+🌞 Morning                209 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+🌆 Daytime                465 commits         ███████████░░░░░░░░░░░░░░   43.14 % 
+🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.21 % 
+🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 ```
 
 
@@ -62,51 +62,50 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-QML                      30 mins             ███████████░░░░░░░░░░░░░░   43.67 % 
-JSON                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Desktop file             18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+QML                      30 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Lua                      22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Bash                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████░░░░   85.88 % 
-Neovim                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (50.19%)
+⏱ AI Coding Time: 50 mins (44.19%)
 
-✍️ 10 lines written by AI, 34 lines written by hand (22.73% AI-written)
+✍️ 10 lines written by AI, 17 lines written by hand (37.04% AI-written)
 
-🔤 136,002 Input Tokens, 14,518 Output Tokens
+🔤 152,412 Input Tokens, 15,249 Output Tokens
 
-💵 $0.63 Estimated AI Cost This Week
+💵 $0.69 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
 Mimo                     10 lines            █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.73% of written lines came from AI
-📄 Detailed Prompter — average 526 characters per prompt
+⚖️ Balanced with AI — 37.04% of written lines came from AI
+📄 Detailed Prompter — average 523 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 80.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 79.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
 
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 ```
 
 
