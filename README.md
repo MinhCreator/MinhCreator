@@ -62,40 +62,39 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-QML                      30 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Lua                      22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Bash                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Lua                      22 mins             █████████░░░░░░░░░░░░░░░░   37.96 % 
+Other                    15 mins             ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Bash                     15 mins             ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (44.19%)
+⏱ AI Coding Time: 14 mins (24.92%)
 
-✍️ 10 lines written by AI, 17 lines written by hand (37.04% AI-written)
+✍️ 0 lines written by AI, 11 lines written by hand (0.0% AI-written)
 
-🔤 152,412 Input Tokens, 15,249 Output Tokens
+🔤 16,410 Input Tokens, 731 Output Tokens
 
-💵 $0.69 Estimated AI Cost This Week
+💵 $0.04 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Mimo                     10 lines            █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.04% of written lines came from AI
-📄 Detailed Prompter — average 523 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 512 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 79.59% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
