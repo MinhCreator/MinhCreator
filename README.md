@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,14 +46,60 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I Mostly Code in GDScript** 
+**I'm an Early 🐤** 
 
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Python                   1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   41.03 % 
+QML                      50 mins             ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Other                    32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+TOML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    3 hrs 48 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 49 mins (21.9%)
+
+✍️ 352 lines written by AI, 1,096 lines written by hand (24.31% AI-written)
+
+🔤 283,024 Input Tokens, 21,102 Output Tokens
+
+💵 $2.55 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 14 AI Prompts
+
+Mimo                     352 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 24.31% of written lines came from AI
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 81.91% of changed lines were hand-edited
+```
+
+```text
+
 ```
 
 
