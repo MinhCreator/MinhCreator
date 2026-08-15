@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,21 +38,21 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 253 Contributions in the Year 2026
+> 🏆 259 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 267 Public Repositories 
+> 📜 272 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                209 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-🌆 Daytime                465 commits         ███████████░░░░░░░░░░░░░░   43.14 % 
-🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.21 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+🌞 Morning                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+🌆 Daytime                465 commits         ███████████░░░░░░░░░░░░░░   43.10 % 
+🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 
@@ -62,40 +62,41 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.79 % 
-QML                      1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-Bash                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-TOML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+QML                      6 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
+Other                    3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+Python                   3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Lua                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    15 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (27.85%)
+⏱ AI Coding Time: 6 hrs 55 mins (45.08%)
 
-✍️ 354 lines written by AI, 1,129 lines written by hand (23.87% AI-written)
+✍️ 1,210 lines written by AI, 1,175 lines written by hand (50.73% AI-written)
 
-🔤 389,871 Input Tokens, 26,751 Output Tokens
+🔤 3,106,355 Input Tokens, 237,403 Output Tokens
 
-💵 $3.46 Estimated AI Cost This Week
+💵 $59.98 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 24 AI Prompts
+🧠 39 AI Sessions, 106 AI Prompts
 
-Mimo                     355 lines           █████████████████████████   100.00 % 
+Nemotron                 1,208 lines         █████████████████████████   99.42 % 
+Mimo                     7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.87% of written lines came from AI
-📝 Concise Prompter — average 177 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 82.36% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.73% of written lines came from AI
+📝 Concise Prompter — average 184 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 58.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
