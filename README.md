@@ -62,31 +62,31 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-QML                      1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   41.65 % 
-Python                   1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
-Other                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python                   1 hr 22 mins        ███████████░░░░░░░░░░░░░░   43.37 % 
+QML                      1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   35.60 % 
+Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 59 mins (50.17%)
+⏱ AI Coding Time: 1 hr 42 mins (54.01%)
 
-✍️ 3,391 lines written by AI, 1,065 lines written by hand (76.1% AI-written)
+✍️ 3,391 lines written by AI, 1,064 lines written by hand (76.12% AI-written)
 
-🔤 1,675,981 Input Tokens, 201,272 Output Tokens
+🔤 1,537,853 Input Tokens, 161,648 Output Tokens
 
-💵 $60.11 Estimated AI Cost This Week
+💵 $52.37 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 22 AI Prompts
+🧠 7 AI Sessions, 15 AI Prompts
 
 Deepseek                 2,363 lines         █████████████████░░░░░░░░   69.46 % 
 Nemotron                 1,039 lines         ████████░░░░░░░░░░░░░░░░░   30.54 % 
@@ -94,10 +94,10 @@ Mimo                     0 lines             ░░░░░░░░░░░�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.1% of written lines came from AI
-📝 Concise Prompter — average 129 characters per prompt
+🤖 AI-Driven — 76.12% of written lines came from AI
+📝 Concise Prompter — average 95 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 24.06% of changed lines were hand-edited
+🚀 High AI Trust — 23.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
