@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,51 +62,52 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-QML                      6 hrs 29 mins       █████████████░░░░░░░░░░░░   53.45 % 
-Other                    3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Lua                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+QML                      1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   41.65 % 
+Python                   1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
+Other                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 59 mins (49.23%)
+⏱ AI Coding Time: 1 hr 59 mins (50.17%)
 
-✍️ 1,208 lines written by AI, 55 lines written by hand (95.65% AI-written)
+✍️ 3,391 lines written by AI, 1,065 lines written by hand (76.1% AI-written)
 
-🔤 2,969,281 Input Tokens, 225,965 Output Tokens
+🔤 1,675,981 Input Tokens, 201,272 Output Tokens
 
-💵 $61.45 Estimated AI Cost This Week
+💵 $60.11 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 91 AI Prompts
+🧠 11 AI Sessions, 22 AI Prompts
 
-Nemotron                 1,208 lines         █████████████████████████   99.67 % 
-Mimo                     4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Deepseek                 2,363 lines         █████████████████░░░░░░░░   69.46 % 
+Nemotron                 1,039 lines         ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.65% of written lines came from AI
-📝 Concise Prompter — average 186 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.41% of changed lines were hand-edited
+🤖 AI-Driven — 76.1% of written lines came from AI
+📝 Concise Prompter — average 129 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 24.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
 
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
 
