@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,10 +49,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                176 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-🌆 Daytime                412 commits         ████████████░░░░░░░░░░░░░   48.64 % 
-🌃 Evening                220 commits         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -100,14 +100,8 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 23.99% of changed lines were hand-edited
 ```
 
-**I Mostly Code in GDScript** 
-
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+
 ```
 
 
