@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,13 +46,13 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-🌆 Daytime                465 commits         ███████████░░░░░░░░░░░░░░   43.10 % 
-🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+🌞 Morning                45 commits          ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌆 Daytime                42 commits          ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+🌃 Evening                81 commits          ███████████░░░░░░░░░░░░░░   43.09 % 
+🌙 Night                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 ```
 
 
