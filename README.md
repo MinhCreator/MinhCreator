@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2032%20mins-blue?style=flat)
 
@@ -62,40 +62,40 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ███████████░░░░░░░░░░░░░░   43.37 % 
-QML                      1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   35.60 % 
-Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+QML                      1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.76 % 
+Python                   1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   39.94 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (54.01%)
+⏱ AI Coding Time: 1 hr 31 mins (44.67%)
 
 ✍️ 3,391 lines written by AI, 1,064 lines written by hand (76.12% AI-written)
 
-🔤 1,537,853 Input Tokens, 161,648 Output Tokens
+🔤 1,414,505 Input Tokens, 160,229 Output Tokens
 
-💵 $52.37 Estimated AI Cost This Week
+💵 $50.96 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 15 AI Prompts
+🧠 7 AI Sessions, 14 AI Prompts
 
 Deepseek                 2,363 lines         █████████████████░░░░░░░░   69.46 % 
 Nemotron                 1,039 lines         ████████░░░░░░░░░░░░░░░░░   30.54 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 76.12% of written lines came from AI
-📝 Concise Prompter — average 95 characters per prompt
+📝 Concise Prompter — average 109 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 23.99% of changed lines were hand-edited
 ```
