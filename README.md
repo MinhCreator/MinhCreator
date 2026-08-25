@@ -46,6 +46,59 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+🌆 Daytime                465 commits         ███████████░░░░░░░░░░░░░░   43.10 % 
+🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+QML                      2 hrs 34 mins       ███████████████░░░░░░░░░░   59.77 % 
+Other                    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    4 hrs 18 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 15 mins (29.24%)
+
+✍️ 0 lines written by AI, 121 lines written by hand (0.0% AI-written)
+
+🔤 2,658,177 Input Tokens, 68,704 Output Tokens
+
+💵 $18.16 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 19 AI Prompts
+
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 174 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in GDScript** 
 
 ```text
