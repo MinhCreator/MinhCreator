@@ -46,60 +46,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-🌆 Daytime                465 commits         ███████████░░░░░░░░░░░░░░   43.10 % 
-🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-QML                      2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.07 % 
-Python                   1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 50 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 29 mins (42.7%)
-
-✍️ 3,391 lines written by AI, 1,184 lines written by hand (74.12% AI-written)
-
-🔤 1,663,723 Input Tokens, 193,408 Output Tokens
-
-💵 $55.15 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 27 AI Prompts
-
-Deepseek                 2,363 lines         █████████████████░░░░░░░░   69.46 % 
-Nemotron                 1,039 lines         ████████░░░░░░░░░░░░░░░░░   30.54 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 74.12% of written lines came from AI
-📝 Concise Prompter — average 141 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 26.04% of changed lines were hand-edited
-```
-
 **I Mostly Code in GDScript** 
 
 ```text
