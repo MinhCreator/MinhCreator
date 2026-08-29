@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,41 +62,40 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-QML                      2 hrs 34 mins       ███████████████░░░░░░░░░░   59.77 % 
-Other                    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+QML                      3 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.61 % 
+Other                    1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Python                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (29.24%)
+⏱ AI Coding Time: 3 hrs 26 mins (48.43%)
 
-✍️ 0 lines written by AI, 121 lines written by hand (0.0% AI-written)
+✍️ 3,048 lines written by AI, 121 lines written by hand (96.18% AI-written)
 
-🔤 2,658,177 Input Tokens, 68,704 Output Tokens
+🔤 1,276,929 Input Tokens, 174,667 Output Tokens
 
-💵 $18.16 Estimated AI Cost This Week
+💵 $44.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 19 AI Prompts
+🧠 24 AI Sessions, 47 AI Prompts
 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     3,050 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 174 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 96.18% of written lines came from AI
+📝 Concise Prompter — average 320 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 4.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
