@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,11 +38,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 259 Contributions in the Year 2026
+> 🏆 260 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 272 Public Repositories 
+> 📜 273 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -62,41 +62,41 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-QML                      4 hrs               ████████████░░░░░░░░░░░░░   47.55 % 
-Other                    2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
-Python                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+QML                      3 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.58 % 
+Other                    3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.74 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Python                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 15 mins (50.57%)
+⏱ AI Coding Time: 6 hrs 1 min (61.51%)
 
-✍️ 3,048 lines written by AI, 123 lines written by hand (96.12% AI-written)
+✍️ 3,055 lines written by AI, 124 lines written by hand (96.1% AI-written)
 
-🔤 1,740,336 Input Tokens, 228,887 Output Tokens
+🔤 2,745,171 Input Tokens, 316,215 Output Tokens
 
-💵 $53.90 Estimated AI Cost This Week
+💵 $73.83 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 68 AI Prompts
+🧠 46 AI Sessions, 95 AI Prompts
 
-Mimo                     3,050 lines         █████████████████████████   100.00 % 
+Mimo                     3,057 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.12% of written lines came from AI
-📝 Concise Prompter — average 313 characters per prompt
+🤖 AI-Driven — 96.1% of written lines came from AI
+📝 Concise Prompter — average 294 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.48% of changed lines were hand-edited
+🚀 High AI Trust — 10.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
