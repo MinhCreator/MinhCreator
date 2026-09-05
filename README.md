@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,7 +38,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2026
+> 🏆 261 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -49,9 +49,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                210 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-🌆 Daytime                465 commits         ███████████░░░░░░░░░░░░░░   43.10 % 
-🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+🌆 Daytime                465 commits         ███████████░░░░░░░░░░░░░░   43.06 % 
+🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.15 % 
 🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
@@ -62,41 +62,43 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-QML                      3 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.08 % 
-Other                    3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.87 % 
-Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.02 % 
+QML                      3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Markdown                 3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Lua                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 13 mins      ████████████████████████░   96.99 % 
+Neovim                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 💻 Operating System: 
-Linux                    9 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 32 mins (71.28%)
+⏱ AI Coding Time: 10 hrs 30 mins (77.09%)
 
-✍️ 3,055 lines written by AI, 4 lines written by hand (99.87% AI-written)
+✍️ 7 lines written by AI, 168 lines written by hand (4.0% AI-written)
 
-🔤 3,043,571 Input Tokens, 378,499 Output Tokens
+🔤 5,854,784 Input Tokens, 558,324 Output Tokens
 
-💵 $85.19 Estimated AI Cost This Week
+💵 $102.76 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 101 AI Prompts
+🧠 88 AI Sessions, 151 AI Prompts
 
-Mimo                     3,057 lines         █████████████████████████   100.00 % 
+Mimo                     7 lines             █████████████████████████   100.00 % 
+Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📝 Concise Prompter — average 327 characters per prompt
+🧑‍💻 Mostly Hands-On — 4.0% of written lines came from AI
+📝 Concise Prompter — average 282 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.45% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
