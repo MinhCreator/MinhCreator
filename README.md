@@ -46,6 +46,61 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Other                    6 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.17 % 
+Markdown                 3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+QML                      2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Lua                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 17 mins      ███████████████████████░░   91.41 % 
+Neovim                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+
+💻 Operating System: 
+Linux                    14 hrs 32 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 35 mins (79.76%)
+
+✍️ 0 lines written by AI, 308 lines written by hand (0.0% AI-written)
+
+🔤 5,729,268 Input Tokens, 623,408 Output Tokens
+
+💵 $125.32 Estimated AI Cost This Week
+
+🧠 81 AI Sessions, 154 AI Prompts
+
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 267 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 ```text
 
 ```
