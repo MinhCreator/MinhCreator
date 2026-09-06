@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.33%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,9 +49,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2 commits           █████████████████░░░░░░░░   66.67 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                1 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -101,14 +101,8 @@ Nemotron                 0 lines             ░░░░░░░░░░░�
 🔍 Hands-On Reviewer — 98.67% of changed lines were hand-edited
 ```
 
-**I Mostly Code in GDScript** 
-
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+
 ```
 
 
