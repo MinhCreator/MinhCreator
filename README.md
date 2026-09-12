@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,45 +62,45 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-Markdown                 3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Lua                      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-QML                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Python                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Markdown                 2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+QML                      2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Other                    2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Lua                      2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Python                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 42 mins      █████████████████████░░░░   83.18 % 
-Neovim                   2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+VS Code                  10 hrs 23 mins      ██████████████████████░░░   88.31 % 
+Neovim                   1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Opencode Cli             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Linux                    12 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 5 mins (62.83%)
+⏱ AI Coding Time: 6 hrs 32 mins (55.52%)
 
-✍️ 3,016 lines written by AI, 520 lines written by hand (85.29% AI-written)
+✍️ 3,234 lines written by AI, 3,893 lines written by hand (45.38% AI-written)
 
-🔤 4,152,974 Input Tokens, 532,977 Output Tokens
+🔤 4,174,138 Input Tokens, 406,975 Output Tokens
 
-💵 $172.91 Estimated AI Cost This Week
+💵 $157.09 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 109 AI Prompts
+🧠 53 AI Sessions, 95 AI Prompts
 
-Mimo                     3,127 lines         █████████████████████████   100.00 % 
+Mimo                     3,253 lines         ████████████████████████░   97.25 % 
+Nemotron                 92 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glimmer                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.29% of written lines came from AI
-📝 Concise Prompter — average 308 characters per prompt
+⚖️ Balanced with AI — 45.38% of written lines came from AI
+📝 Concise Prompter — average 322 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 19.22% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 67.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
