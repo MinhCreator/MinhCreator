@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.29%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,10 +49,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                78 commits          ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-🌆 Daytime                92 commits          ████████░░░░░░░░░░░░░░░░░   31.62 % 
-🌃 Evening                97 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 Night                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -103,14 +103,8 @@ Spark                    0 lines             ░░░░░░░░░░░�
 🔍 Hands-On Reviewer — 86.35% of changed lines were hand-edited
 ```
 
-**I Mostly Code in GDScript** 
-
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+
 ```
 
 
