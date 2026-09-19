@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.75%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,7 +38,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 267 Contributions in the Year 2026
+> 🏆 268 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -62,55 +62,54 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-QML                      2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Other                    2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Lua                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+QML                      1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+TypeScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Bash                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 45 mins       ███████████████████████░░   90.24 % 
-Neovim                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Opencode Cli             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+VS Code                  7 hrs 28 mins       █████████████████████████   99.87 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    10 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 50 mins (54.02%)
+⏱ AI Coding Time: 3 hrs 6 mins (41.59%)
 
-✍️ 3,094 lines written by AI, 17,403 lines written by hand (15.09% AI-written)
+✍️ 640 lines written by AI, 17,291 lines written by hand (3.57% AI-written)
 
-🔤 4,131,136 Input Tokens, 369,204 Output Tokens
+🔤 2,006,557 Input Tokens, 149,625 Output Tokens
 
-💵 $147.27 Estimated AI Cost This Week
+💵 $50.95 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 88 AI Prompts
+🧠 19 AI Sessions, 44 AI Prompts
 
-Mimo                     3,112 lines         ████████████████████████░   97.13 % 
-Nemotron                 92 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    422 lines           ████████████████░░░░░░░░░   65.94 % 
+Mimo                     126 lines           █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Nemotron                 92 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 Glimmer                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.09% of written lines came from AI
-📝 Concise Prompter — average 339 characters per prompt
+🧑‍💻 Mostly Hands-On — 3.57% of written lines came from AI
+📝 Concise Prompter — average 233 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 86.35% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
 
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
