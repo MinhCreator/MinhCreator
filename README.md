@@ -46,6 +46,60 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+🌆 Daytime                459 commits         ███████████░░░░░░░░░░░░░░   42.74 % 
+🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Other                    1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+TypeScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Bash                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+TOML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 30 mins       ██████████████████████░░░   89.17 % 
+Neovim                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+
+💻 Operating System: 
+Linux                    6 hrs 10 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 43 mins (44.18%)
+
+✍️ 422 lines written by AI, 13,832 lines written by hand (2.96% AI-written)
+
+🔤 1,340,851 Input Tokens, 164,848 Output Tokens
+
+💵 $29.60 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 40 AI Prompts
+
+Spark                    422 lines           █████████████████████████   100.00 % 
+Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 2.96% of written lines came from AI
+📝 Concise Prompter — average 205 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 97.06% of changed lines were hand-edited
+```
+
 **I Mostly Code in GDScript** 
 
 ```text
