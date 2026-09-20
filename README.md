@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.75%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,61 +46,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-🌆 Daytime                459 commits         ███████████░░░░░░░░░░░░░░   42.74 % 
-🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-TypeScript               1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Bash                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-TOML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 34 mins (30.4%)
-
-✍️ 422 lines written by AI, 13,810 lines written by hand (2.97% AI-written)
-
-🔤 625,165 Input Tokens, 93,693 Output Tokens
-
-💵 $27.97 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 16 AI Prompts
-
-Spark                    422 lines           █████████████████████████   100.00 % 
-Glimmer                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.97% of written lines came from AI
-📝 Concise Prompter — average 172 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 97.06% of changed lines were hand-edited
-```
-
 **I Mostly Code in GDScript** 
 
 ```text
