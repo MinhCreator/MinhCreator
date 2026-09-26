@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,16 +42,16 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 269 Public Repositories 
+> 📜 270 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-🌆 Daytime                459 commits         ███████████░░░░░░░░░░░░░░   42.74 % 
-🌃 Evening                358 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+🌆 Daytime                459 commits         ███████████░░░░░░░░░░░░░░   42.70 % 
+🌃 Evening                359 commits         ████████░░░░░░░░░░░░░░░░░   33.40 % 
 🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 ```
 
@@ -105,11 +105,11 @@ Nemotron                 0 lines             ░░░░░░░░░░░�
 **I Mostly Code in GDScript** 
 
 ```text
-GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+GDScript                 13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
 
