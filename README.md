@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,62 +46,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-🌆 Daytime                459 commits         ███████████░░░░░░░░░░░░░░   42.70 % 
-🌃 Evening                359 commits         ████████░░░░░░░░░░░░░░░░░   33.40 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Other                    2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
-JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-TOML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-QML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 5 mins        ██████████████████░░░░░░░   73.81 % 
-Neovim                   1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-
-💻 Operating System: 
-Linux                    5 hrs 32 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 37 mins (65.41%)
-
-✍️ 2,779 lines written by AI, 282 lines written by hand (90.79% AI-written)
-
-🔤 3,013,246 Input Tokens, 150,188 Output Tokens
-
-💵 $64.27 Estimated AI Cost This Week
-
-🧠 28 AI Sessions, 80 AI Prompts
-
-Spark                    2,782 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 90.79% of written lines came from AI
-📝 Concise Prompter — average 248 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 10.46% of changed lines were hand-edited
-```
-
 **I Mostly Code in GDScript** 
 
 ```text
