@@ -62,42 +62,42 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.84 % 
-Python                   2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Luau                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-TOML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+TypeScript               4 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.27 % 
+Python                   2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Luau                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 50 mins      █████████████████████████   99.51 % 
-Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+VS Code                  11 hrs 24 mins      █████████████████████████   99.49 % 
+Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Linux                    11 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 14 mins (44.06%)
+⏱ AI Coding Time: 4 hrs 49 mins (42.06%)
 
-✍️ 4,867 lines written by AI, 1,312 lines written by hand (78.77% AI-written)
+✍️ 3,352 lines written by AI, 1,312 lines written by hand (71.87% AI-written)
 
-🔤 3,428,467 Input Tokens, 360,369 Output Tokens
+🔤 3,103,123 Input Tokens, 326,936 Output Tokens
 
-💵 $147.60 Estimated AI Cost This Week
+💵 $128.84 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 54 AI Prompts
+🧠 23 AI Sessions, 51 AI Prompts
 
-Spark                    3,939 lines         ████████████████████░░░░░   80.47 % 
-Opencode-Cli             770 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Mimo                     186 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Spark                    2,422 lines         ██████████████████░░░░░░░   71.70 % 
+Opencode-Cli             770 lines           ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Mimo                     186 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.77% of written lines came from AI
-📝 Concise Prompter — average 421 characters per prompt
+🤖 AI-Driven — 71.87% of written lines came from AI
+📝 Concise Prompter — average 428 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 33.09% of changed lines were hand-edited
+🚀 High AI Trust — 41.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
