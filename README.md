@@ -28,7 +28,7 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%202%20mins-blue?style=flat)
 
@@ -62,26 +62,26 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-JavaScript               5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-Markdown                 4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+TypeScript               5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+JavaScript               5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Markdown                 4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Bash                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 41 mins      ███████████████████████░░   90.62 % 
-Neovim                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+VS Code                  17 hrs 48 mins      ███████████████████████░░   90.68 % 
+Neovim                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 💻 Operating System: 
-Linux                    19 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 32 mins (59.14%)
+⏱ AI Coding Time: 11 hrs 32 mins (58.78%)
 
-✍️ 14,374 lines written by AI, 4,521 lines written by hand (76.07% AI-written)
+✍️ 14,374 lines written by AI, 4,522 lines written by hand (76.07% AI-written)
 
 🔤 6,618,590 Input Tokens, 1,115,885 Output Tokens
 
@@ -98,7 +98,7 @@ DeepSeek                 0 lines             ░░░░░░░░░░░�
 🤖 AI-Driven — 76.07% of written lines came from AI
 📚 Verbose Prompter — average 1,906 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.94% of changed lines were hand-edited
+🚀 High AI Trust — 28.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
