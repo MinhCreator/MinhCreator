@@ -62,43 +62,43 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-JavaScript               5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-Markdown                 4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Bash                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JavaScript               5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Markdown                 4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+TypeScript               3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Bash                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 48 mins      ███████████████████████░░   90.68 % 
-Neovim                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+VS Code                  15 hrs 24 mins      ██████████████████████░░░   89.43 % 
+Neovim                   1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
 
 💻 Operating System: 
-Linux                    19 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 32 mins (58.78%)
+⏱ AI Coding Time: 9 hrs 45 mins (56.61%)
 
-✍️ 14,374 lines written by AI, 4,522 lines written by hand (76.07% AI-written)
+✍️ 14,374 lines written by AI, 4,433 lines written by hand (76.43% AI-written)
 
-🔤 6,618,590 Input Tokens, 1,115,885 Output Tokens
+🔤 5,707,134 Input Tokens, 1,009,454 Output Tokens
 
-💵 $330.70 Estimated AI Cost This Week
+💵 $297.03 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 137 AI Prompts
+🧠 36 AI Sessions, 113 AI Prompts
 
-Opencode-Cli             10,059 lines        █████████████████░░░░░░░░   69.55 % 
-Spark                    4,403 lines         ████████░░░░░░░░░░░░░░░░░   30.45 % 
+Opencode-Cli             10,059 lines        █████████████████░░░░░░░░   69.56 % 
+Spark                    4,402 lines         ████████░░░░░░░░░░░░░░░░░   30.44 % 
 Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.07% of written lines came from AI
-📚 Verbose Prompter — average 1,906 characters per prompt
+🤖 AI-Driven — 76.43% of written lines came from AI
+📚 Verbose Prompter — average 1,856 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.95% of changed lines were hand-edited
+🚀 High AI Trust — 27.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
