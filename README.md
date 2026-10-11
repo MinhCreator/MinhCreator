@@ -101,8 +101,14 @@ DeepSeek                 0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 28.95% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in GDShader** 
 
+```text
+GDShader                 7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Lua                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
