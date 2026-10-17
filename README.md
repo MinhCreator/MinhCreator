@@ -62,27 +62,27 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Other                    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Bash                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+JavaScript               1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Other                    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Bash                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 16 mins       ██████████████████████░░░   88.28 % 
-Antigravity Desktop      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Neovim                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+VS Code                  5 hrs 8 mins        ██████████████████████░░░   88.04 % 
+Antigravity Desktop      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Neovim                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 45 mins (46.16%)
+⏱ AI Coding Time: 2 hrs 45 mins (47.1%)
 
-✍️ 1,136 lines written by AI, 256 lines written by hand (81.61% AI-written)
+✍️ 1,136 lines written by AI, 255 lines written by hand (81.67% AI-written)
 
 🔤 1,259,420 Input Tokens, 166,822 Output Tokens
 
@@ -96,10 +96,10 @@ Gemma                    0 lines             ░░░░░░░░░░░�
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.61% of written lines came from AI
+🤖 AI-Driven — 81.67% of written lines came from AI
 📝 Concise Prompter — average 315 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 22.09% of changed lines were hand-edited
+🚀 High AI Trust — 21.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
