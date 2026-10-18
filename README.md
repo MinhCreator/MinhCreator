@@ -32,26 +32,26 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 288 Contributions in the Year 2026
+> 🏆 287 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 279 Public Repositories 
+> 📜 278 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-🌆 Daytime                463 commits         ██████████░░░░░░░░░░░░░░░   41.94 % 
-🌃 Evening                383 commits         █████████░░░░░░░░░░░░░░░░   34.69 % 
+🌞 Morning                209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+🌆 Daytime                463 commits         ███████████░░░░░░░░░░░░░░   42.01 % 
+🌃 Evening                383 commits         █████████░░░░░░░░░░░░░░░░   34.75 % 
 🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
@@ -108,11 +108,11 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in GDScript** 
 
 ```text
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
