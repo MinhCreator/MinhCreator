@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.78%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,10 +49,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                186 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-🌆 Daytime                408 commits         ███████████░░░░░░░░░░░░░░   45.03 % 
-🌃 Evening                271 commits         ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+🌞 Morning                211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+🌆 Daytime                463 commits         ███████████░░░░░░░░░░░░░░   42.52 % 
+🌃 Evening                369 commits         ████████░░░░░░░░░░░░░░░░░   33.88 % 
+🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 
 
@@ -105,11 +105,11 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in GDScript** 
 
 ```text
-GDShader                 6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Lua                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
 
