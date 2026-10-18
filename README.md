@@ -42,7 +42,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 277 Public Repositories 
+> 📜 278 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
