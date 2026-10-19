@@ -28,9 +28,9 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.02%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,47 +62,47 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-Other                    1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-JSON                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Bash                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Lua                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Other                    1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Bash                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Lua                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 39 mins       ████████████████████░░░░░   79.61 % 
-Neovim                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Antigravity Desktop      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-OpenCode                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+VS Code                  6 hrs 55 mins       ███████████████████░░░░░░   74.49 % 
+Neovim                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+OpenCode                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Opencode Cli             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Antigravity Desktop      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 💻 Operating System: 
-Linux                    8 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (40.63%)
+⏱ AI Coding Time: 3 hrs 47 mins (40.7%)
 
-✍️ 1,136 lines written by AI, 373 lines written by hand (75.28% AI-written)
+✍️ 516 lines written by AI, 399 lines written by hand (56.39% AI-written)
 
-🔤 1,480,140 Input Tokens, 235,965 Output Tokens
+🔤 1,477,923 Input Tokens, 262,069 Output Tokens
 
-💵 $100.28 Estimated AI Cost This Week
+💵 $79.10 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 71 AI Prompts
+🧠 19 AI Sessions, 61 AI Prompts
 
-Spark                    1,136 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    516 lines           █████████████████████████   100.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.28% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 31.65% of changed lines were hand-edited
+⚖️ Balanced with AI — 56.39% of written lines came from AI
+📝 Concise Prompter — average 303 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 52.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
