@@ -28,11 +28,11 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,10 +49,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-🌆 Daytime                463 commits         ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌃 Evening                390 commits         █████████░░░░░░░░░░░░░░░░   35.07 % 
-🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+🌞 Morning                215 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+🌆 Daytime                463 commits         ██████████░░░░░░░░░░░░░░░   41.30 % 
+🌃 Evening                396 commits         █████████░░░░░░░░░░░░░░░░   35.33 % 
+🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 
 
@@ -62,47 +62,46 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Other                    1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Bash                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Lua                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+JavaScript               2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+JSON                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Bash                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Lua                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 55 mins       ███████████████████░░░░░░   74.49 % 
-Neovim                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-OpenCode                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Opencode Cli             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Antigravity Desktop      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+VS Code                  6 hrs 52 mins       █████████████████░░░░░░░░   69.05 % 
+OpenCode                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Neovim                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Opencode Cli             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Antigravity Desktop      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 💻 Operating System: 
-Linux                    9 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 47 mins (40.7%)
+⏱ AI Coding Time: 4 hrs 21 mins (43.84%)
 
-✍️ 516 lines written by AI, 399 lines written by hand (56.39% AI-written)
+✍️ 523 lines written by AI, 512 lines written by hand (50.53% AI-written)
 
-🔤 1,477,923 Input Tokens, 262,069 Output Tokens
+🔤 1,328,496 Input Tokens, 295,412 Output Tokens
 
-💵 $79.10 Estimated AI Cost This Week
+💵 $89.43 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 61 AI Prompts
+🧠 16 AI Sessions, 35 AI Prompts
 
-Spark                    516 lines           █████████████████████████   100.00 % 
-MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    516 lines           █████████████████████████   98.66 % 
+MiMo                     7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.39% of written lines came from AI
-📝 Concise Prompter — average 303 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 52.88% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.53% of written lines came from AI
+📝 Concise Prompter — average 124 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 59.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
