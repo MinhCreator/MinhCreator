@@ -42,7 +42,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 282 Public Repositories 
+> 📜 283 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -62,46 +62,44 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-JSON                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Bash                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Lua                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+JavaScript               2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.38 % 
+JSON                     2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+Bash                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Lua                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 52 mins       █████████████████░░░░░░░░   69.05 % 
-OpenCode                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Neovim                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Opencode Cli             29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Antigravity Desktop      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+VS Code                  5 hrs 13 mins       █████████████████░░░░░░░░   66.14 % 
+OpenCode                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Neovim                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Opencode Cli             29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 💻 Operating System: 
-Linux                    9 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 21 mins (43.84%)
+⏱ AI Coding Time: 3 hrs 19 mins (42.14%)
 
-✍️ 523 lines written by AI, 512 lines written by hand (50.53% AI-written)
+✍️ 523 lines written by AI, 378 lines written by hand (58.05% AI-written)
 
-🔤 1,328,496 Input Tokens, 295,412 Output Tokens
+🔤 960,056 Input Tokens, 246,900 Output Tokens
 
-💵 $89.43 Estimated AI Cost This Week
+💵 $73.48 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 35 AI Prompts
+🧠 11 AI Sessions, 21 AI Prompts
 
 Spark                    516 lines           █████████████████████████   98.66 % 
 MiMo                     7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.53% of written lines came from AI
-📝 Concise Prompter — average 124 characters per prompt
+⚖️ Balanced with AI — 58.05% of written lines came from AI
+📝 Concise Prompter — average 138 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 59.01% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 53.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in GDScript** 
