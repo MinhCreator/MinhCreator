@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2011%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.02%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,61 +46,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                220 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-🌆 Daytime                464 commits         ██████████░░░░░░░░░░░░░░░   41.28 % 
-🌃 Evening                393 commits         █████████░░░░░░░░░░░░░░░░   34.96 % 
-🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-JSON                     2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.41 % 
-JavaScript               1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-Lua                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Bash                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 42 mins       ███████████████░░░░░░░░░░   59.14 % 
-OpenCode                 1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Neovim                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Opencode Cli             47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-
-💻 Operating System: 
-Linux                    7 hrs 58 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 23 mins (42.64%)
-
-✍️ 7 lines written by AI, 498 lines written by hand (1.39% AI-written)
-
-🔤 1,084,674 Input Tokens, 225,042 Output Tokens
-
-💵 $29.68 Estimated AI Cost This Week
-
-🧠 14 AI Sessions, 29 AI Prompts
-
-MiMo                     7 lines             █████████████████████████   100.00 % 
-Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.39% of written lines came from AI
-📝 Concise Prompter — average 138 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.21% of changed lines were hand-edited
-```
-
 **I Mostly Code in GDScript** 
 
 ```text
