@@ -42,17 +42,17 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 299 Public Repositories 
+> 📜 298 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                220 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-🌆 Daytime                464 commits         ██████████░░░░░░░░░░░░░░░   41.06 % 
-🌃 Evening                399 commits         █████████░░░░░░░░░░░░░░░░   35.31 % 
-🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+🌞 Morning                220 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+🌆 Daytime                464 commits         ██████████░░░░░░░░░░░░░░░   41.17 % 
+🌃 Evening                396 commits         █████████░░░░░░░░░░░░░░░░   35.14 % 
+🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -104,11 +104,11 @@ Gemma                    0 lines             ░░░░░░░░░░░�
 **I Mostly Code in GDScript** 
 
 ```text
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
