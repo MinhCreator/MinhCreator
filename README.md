@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.02%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -49,10 +49,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                220 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-🌆 Daytime                465 commits         ██████████░░░░░░░░░░░░░░░   41.19 % 
-🌃 Evening                397 commits         █████████░░░░░░░░░░░░░░░░   35.16 % 
-🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+🌞 Morning                220 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+🌆 Daytime                465 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
+🌃 Evening                391 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 
 
@@ -62,34 +62,34 @@
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-QML                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JavaScript               55 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████░░░░░░░░░░░░   53.43 % 
-Opencode Cli             1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   41.29 % 
-OpenCode                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+VS Code                  1 hr 54 mins        ███████████████░░░░░░░░░░   58.97 % 
+Opencode Cli             1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.43 % 
+OpenCode                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    3 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (62.85%)
+⏱ AI Coding Time: 1 hr 49 mins (56.33%)
 
 ✍️ 698 lines written by AI, 1,062 lines written by hand (39.66% AI-written)
 
-🔤 714,049 Input Tokens, 116,258 Output Tokens
+🔤 493,489 Input Tokens, 88,009 Output Tokens
 
-💵 $33.29 Estimated AI Cost This Week
+💵 $31.02 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 11 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
 GLM                      448 lines           ████████████████░░░░░░░░░   62.48 % 
 DeepSeek                 269 lines           █████████░░░░░░░░░░░░░░░░   37.52 % 
@@ -97,7 +97,7 @@ MiMo                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 39.66% of written lines came from AI
-📝 Concise Prompter — average 379 characters per prompt
+📝 Concise Prompter — average 43 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 59.9% of changed lines were hand-edited
 ```
