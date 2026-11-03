@@ -53,16 +53,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: update waka time
-        uses: athul/waka-readme@v0.3.1
+        uses: AptS-1547/wakatime-readme-updater@v1.0.1
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: true
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
+          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
+          gh_token: ${{ secrets.GH_TOKEN }}
+          
