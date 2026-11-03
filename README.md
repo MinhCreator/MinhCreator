@@ -111,10 +111,6 @@ TypeScript               6 repos             ██░░░░░░░░░�
 HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
-
-
-
-
 <!--END_SECTION:waka-->
 
 ### 🧰 Language and Tools
