@@ -28,89 +28,38 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2054%20mins-blue?style=flat)
+**🕐 Total Coding Time**: 2 hrs 31 mins
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2038%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.02%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 301 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 317 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
+**💻 Programming Languages**:
 ```text
-🌞 Morning                220 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-🌆 Daytime                465 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌃 Evening                391 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JavaScript      ████████░░░░░░░░░░░░░░░░░ 32.06% 55 mins
+HTML            ████░░░░░░░░░░░░░░░░░░░░░ 14.73% 25 mins
+JSON            ███░░░░░░░░░░░░░░░░░░░░░░ 12.94% 22 mins
+TypeScript      ███░░░░░░░░░░░░░░░░░░░░░░ 10.16% 17 mins
+Bash            ██░░░░░░░░░░░░░░░░░░░░░░░  7.98% 13 mins
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
+**🛠️ Editors**:
 ```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-JavaScript               55 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-
-🔥 Editors: 
-VS Code                  1 hr 54 mins        ███████████████░░░░░░░░░░   58.97 % 
-Opencode Cli             1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.43 % 
-OpenCode                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-💻 Operating System: 
-Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code         ███████████████░░░░░░░░░░ 58.97%
+Opencode Cli    █████████░░░░░░░░░░░░░░░░ 35.43%
+OpenCode        █░░░░░░░░░░░░░░░░░░░░░░░░  5.46%
 ```
 
-🤖 **AI Coding This Week** 
-
+**💻 Operating Systems**:
 ```text
-⏱ AI Coding Time: 1 hr 49 mins (56.33%)
-
-✍️ 698 lines written by AI, 1,062 lines written by hand (39.66% AI-written)
-
-🔤 493,489 Input Tokens, 88,009 Output Tokens
-
-💵 $31.02 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 8 AI Prompts
-
-GLM                      448 lines           ████████████████░░░░░░░░░   62.48 % 
-DeepSeek                 269 lines           █████████░░░░░░░░░░░░░░░░   37.52 % 
-MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.66% of written lines came from AI
-📝 Concise Prompter — average 43 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 59.9% of changed lines were hand-edited
+Linux           █████████████████████████ 100.00%
 ```
 
-**I Mostly Code in GDScript** 
-
+**📂 Projects**:
 ```text
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+wms-backend                    ████████████████████░░░░░ 78.56%
+WMS-UI                         ███░░░░░░░░░░░░░░░░░░░░░░ 11.05%
+upload-test                    ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
+hypr                           █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
+wms-frontend                   ░░░░░░░░░░░░░░░░░░░░░░░░░  1.47%
 ```
+
 <!--END_SECTION:waka-->
 
 ### 🧰 Language and Tools
